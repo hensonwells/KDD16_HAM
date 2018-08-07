@@ -28,6 +28,8 @@ topk=3     &emsp; &emsp;      # the number of selected SH spanner
 You can use the following routine to perform the code.
  
 e.g. python new_HAM.py --edges --community --topk
+
+
 $ python new_HAM.py /home/henson/KDD16_HAM-master/task/edges_football.txt /home/henson/KDD16_HAM-master/task/HAM_com_football.txt
 
 
